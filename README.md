@@ -16,3 +16,6 @@ As vehicles develop into software-defined platforms with powerful automated driv
 
 # 📬 Contact Us
 For questions, comments, or collaborations, feel free to contact us: Mohammadparsa Karimi — m.karimi@tue.nl
+
+# Acknowledgments
+This work has received funding from the European Chips Joint Undertaking under Framework Partnership Agreement No 101139789 (HAL4SDV).
