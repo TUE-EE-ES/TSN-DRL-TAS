@@ -6,7 +6,7 @@ This repository contains the source code for the paper:
 # 🔬 Reference
 If you use this work, please cite:
 
-Karimi, M., Nabi, M., Nelson, A., Goossens, K., & Basten, T. (2025). 
-Deep-Reinforcement-Learning-based Scheduler for Time-Aware Shaper in In-Vehicle Networks. 
-Electronic Systems (ES), Eindhoven University of Technology.
+M. Karimi, M. Nabi, A. Nelson, K. Goossens, and T. Basten, "Deep-Reinforcement-Learning-based Scheduler for Time-Aware Shaper in In-Vehicle Networks," in *Proc. 2025 IEEE 101st Vehicular Technology Conf. (VTC2025-Spring)*, Oslo, Norway, Jun. 17–20, 2025.
+
+
 
